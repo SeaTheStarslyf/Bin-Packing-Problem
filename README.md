@@ -15,3 +15,10 @@ MCTS.py：实现蒙特卡洛树，通过训练好的PPO模型指导路径的选�
 MCTS_train.py：使用结合PPO模型的蒙特卡洛树进行装箱
 
 ## Task3
+E-emmerce.py：实现贪心搜索进行选择
+
+get_data.py：读取csv文件
+
+Tools.py：一些辅助函数
+
+task3.csv：装箱问题数据
