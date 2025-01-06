@@ -1,4 +1,5 @@
 # Bin-Packing-Problem
+![198b0a4bd4bcf2a3e017cf6b12c1fc6](https://github.com/user-attachments/assets/2c0b295d-73e0-479b-9be2-f93b23a33abc)
 ## 环境准备
 Box.py：实现algorithm1，用于随机生成箱子
 
